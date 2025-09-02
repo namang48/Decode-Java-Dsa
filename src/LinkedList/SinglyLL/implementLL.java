@@ -1,9 +1,9 @@
-package LinkedList.DoublyLL;
+package LinkedList.SinglyLL;
 
 
 public class implementLL {
     public static void main(String[] args) {
-        SinglyLL list = new SinglyLL();
+        SinglyL list = new SinglyL();
 
         list.addAtTail(10);
         list.addAtTail(20);

@@ -2,11 +2,13 @@ package LinkedList.SinglyLL;
 
 import LinkedList.Node;
 
-class SinglyLL{
+
+
+class SinglyL{
     private Node head;
     private Node tail;
     private int size;
-    public SinglyLL(){}
+    public SinglyL(){}
 
     void addAtTail(int data){
         size++;
